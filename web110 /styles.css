@@ -1,13 +1,13 @@
 body{
-          background-color:  DarkGreen
+          background-color: DarkGreen
 }
 
 h1{
-    color: Cyan;
-    text-align: center;
+          color:Cyan;
+          text-align: center;
 }
 
 p{
-    font-family: Verdana;
-    font-size: 12px;
+          font-family: Verdana;
+          font-size: 12px;
 }
