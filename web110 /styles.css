@@ -1,13 +1,13 @@
 body {
-          background-color:  red
+          background-color:  DarkGreen
 }
 
 h1 {
-    color: green;
+    color: Cyan;
     text-align: center;
 }
 
 p {
-    font-family: yellow;
+    font-family: DarkRed;
     font-size: 12px;
 }
